@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722202968074",
+    "project_id": "societymemberhub-38b10",
+    "storage_bucket": "societymemberhub-38b10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722202968074:android:6519bb0e6d4b179c981ff3",
+        "android_client_info": {
+          "package_name": "com.ms.societymemberhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKK7jpxAV_38V6SaYZrqGh7gAxCCNQVLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
